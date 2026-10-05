@@ -18,6 +18,11 @@ A lightweight, fast and extensible game server for Minecraft
 [Fabric Website](https://fabricmc.net)
 Fabric is a lightweight, experimental modding toolchain for Minecraft.
 
+## [FalchusSpigot](falchusspigot)
+
+[FalchusSpigot Website](https://falchus.com/spigot)
+FalchusSpigot is a high-performance WindSpigot fork focused on improving server performance.
+
 ## [Feather](feather)
 
 [Feather GitHub](https://github.com/feather-rs/feather)
