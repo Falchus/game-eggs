@@ -1,20 +1,18 @@
 # FalchusSpigot
 
-FalchusSpigot is a high-performance WindSpigot fork focused on improving server performance.
+A high-performance **[**WindSpigot fork**](https://github.com/Wind-Development/WindSpigot)** focused on improving server performance.
 
-[Website](https://falchus.com/spigot)
+![](https://falchus.com/spigot/banner)
 
-[Download](https://voxel.shop/product/9159/falchusspigot)
+https://youtu.be/9I8CIiFhurU
 
-## Server Ports
+### Download
+Get the latest release [**here**](https://voxel.shop/product/9159/falchusspigot).
 
-The minecraft server requires a single port for access (default 25565) but plugins may require extra ports to enabled for the server.
+### Installation
+1. Install **Java 21**
+2. Replace your existing server `.jar` with the **FalchusSpigot** jar
+3. Delete all old configuration files _(Spigot, Paper, etc.)_
+4. Start the server - done!
 
-| Port  | default |
-|-------|---------|
-| Game  | 25565   |
-
-## Requirements
-
-To run FalchusSpigot, you'll need:
-- Java 21 or newer
+![](https://bstats.org/signatures/server-implementation/FalchusSpigot.svg)
