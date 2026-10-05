@@ -18,11 +18,6 @@ A lightweight, fast and extensible game server for Minecraft
 [Fabric Website](https://fabricmc.net)
 Fabric is a lightweight, experimental modding toolchain for Minecraft.
 
-## [FalchusSpigot](falchusspigot)
-
-[FalchusSpigot Website](https://falchus.com/spigot)
-FalchusSpigot is a high-performance WindSpigot fork focused on improving server performance.
-
 ## [Feather](feather)
 
 [Feather GitHub](https://github.com/feather-rs/feather)
@@ -114,6 +109,11 @@ Spigot Plugins are not compatible with this fork. unless they are optimised for 
 
 [Purpur Website](https://purpurmc.org/)
 Purpur is a drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features.
+
+## [FalchusSpigot](falchusspigot)
+
+[FalchusSpigot Website](https://falchus.com/spigot)
+FalchusSpigot is a high-performance WindSpigot fork focused on improving server performance.
 
 ### [Spigot](spigot)
 
